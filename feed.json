@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "blog",
+    "description": "",
+    "home_page_url": "https://mingos3.github.io",
+    "feed_url": "https://mingos3.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "mingos"
+    },
+    "items": [
+        {
+            "id": "https://mingos3.github.io/blog-post-1.html",
+            "url": "https://mingos3.github.io/blog-post-1.html",
+            "title": "Blog Post 1",
+            "summary": "first post",
+            "content_html": "first post",
+            "author": {
+                "name": "mingos"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-06-14T09:13:53+02:00",
+            "date_modified": "2019-06-14T09:13:53+02:00"
+        }
+    ]
+}

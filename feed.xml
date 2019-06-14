@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>blog</title>
+    <link href="https://mingos3.github.io/feed.xml" rel="self" />
+    <link href="https://mingos3.github.io" />
+    <updated>2019-06-14T09:23:18+02:00</updated>
+    <author>
+        <name>mingos</name>
+    </author>
+    <id>https://mingos3.github.io</id>
+
+    <entry>
+        <title>Blog Post 1</title>
+        <author>
+            <name>mingos</name>
+        </author>
+        <link href="https://mingos3.github.io/blog-post-1.html"/>
+        <id>https://mingos3.github.io/blog-post-1.html</id>
+
+        <updated>2019-06-14T09:13:53+02:00</updated>
+            <summary>
+                <![CDATA[
+                    first post
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                first post
+            ]]>
+        </content>
+    </entry>
+</feed>
